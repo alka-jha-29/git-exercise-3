@@ -3,8 +3,8 @@
 Ordered list
 
 
-Name:- Alka Jha
-Age:-26 years
-Color:- Black, Blue
-Language:- Hindi,Sanskrit
-Restaurant:- Bella Italia, Romantica
+1. Name:- Alka Jha
+2. Age:-26 years
+3. Color:- Black, Blue
+4. Language:- Hindi,Sanskrit
+5. Restaurant:- Bella Italia, Romantica
